@@ -13,7 +13,7 @@ cd promo-status
 
 C:\Users\yourusername\promo-status
 ```
-### Fill in the tokens in the .env and fill in the necessary places in the index
+### fill in the necessary places in the index
 
 ### download the libraries
 ```bash
